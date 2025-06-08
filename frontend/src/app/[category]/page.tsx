@@ -104,16 +104,17 @@ const Headphones = () => {
 
                 {/* Loading state */}
                 {loading && (
-                    <div className="flex justify-center items-center py-40">
-                        <Image
-                            src="/spinner/orange_circles.gif"
-                            className='w-40 h-28 flex mx-auto my-auto'
-                            width={40}
-                            height={40}
-                            alt="Loading..."
-                            priority
-                        />
-
+                    <div className="grid grid-cols-1 gap-16 py-20">
+                        <div className="container mx-auto flex flex-col lg:flex-row lg:gap-24 items-center justify-center animate-pulse">
+                            <div className="w-full h-[300px] bg-gray-300 rounded-lg" />
+                            <div className="w-full py-20 px-6 lg:px-0">
+                                <div className="mb-4 w-1/3 h-4 bg-gray-300 rounded"></div>
+                                <div className="mb-6 w-3/4 h-10 bg-gray-300 rounded"></div>
+                                <div className="mb-4 w-full h-4 bg-gray-300 rounded"></div>
+                                <div className="mb-4 w-5/6 h-4 bg-gray-300 rounded"></div>
+                                <div className="w-40 h-10 bg-gray-300 rounded"></div>
+                            </div>
+                        </div>
                     </div>
                 )}
 
