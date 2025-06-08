@@ -13,13 +13,15 @@ const PORT = process.env.PORT || 3000;
 
 const app = express();
 
-app.use(cors());
 app.use(json());
 
 // middleware
 app.use(
   cors({
-    origin: "*",
+    origin: [
+      "http://localhost:3002",
+      "https://azubi-project-ecommerce.vercel.app/",
+    ],
     credentials: true,
   })
 );
