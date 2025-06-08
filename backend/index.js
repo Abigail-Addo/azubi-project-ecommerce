@@ -20,7 +20,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3002",
-      "https://azubi-project-ecommerce.vercel.app/",
+      "https://azubi-project-ecommerce.vercel.app",
     ],
     credentials: true,
   })
