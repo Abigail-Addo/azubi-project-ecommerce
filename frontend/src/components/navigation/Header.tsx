@@ -251,7 +251,7 @@ const Header: React.FC<HeaderProps> = ({ bgColor = 'transparent', showBorder = t
                             <div className="absolute -top-16 md:-top-30 lg:-top-18 w-full flex justify-center">
                                 {/* Mobile image */}
                                 <Image
-                                    src="/category/mobile/speaker.png"
+                                    src="/home/category/mobile/speaker.png"
                                     alt="speaker"
                                     width={150}
                                     height={150}
@@ -260,7 +260,7 @@ const Header: React.FC<HeaderProps> = ({ bgColor = 'transparent', showBorder = t
                                 />
                                 {/* Tablet image */}
                                 <Image
-                                    src="/category/tablet/speaker.png"
+                                    src="/home/category/tablet/speaker.png"
                                     alt="speaker"
                                     width={150}
                                     height={150}
@@ -269,7 +269,7 @@ const Header: React.FC<HeaderProps> = ({ bgColor = 'transparent', showBorder = t
                                 />
                                 {/* Desktop image */}
                                 <Image
-                                    src="/category/desktop/speaker.png"
+                                    src="/home/category/desktop/speaker.png"
                                     alt="speaker"
                                     width={150}
                                     height={150}
@@ -303,7 +303,7 @@ const Header: React.FC<HeaderProps> = ({ bgColor = 'transparent', showBorder = t
                             <div className="absolute -top-16 md:-top-30 lg:-top-18 w-full flex justify-center">
                                 {/* Mobile image */}
                                 <Image
-                                    src="/category/mobile/earphone.png"
+                                    src="/home/category/mobile/earphone.png"
                                     alt="earphone"
                                     width={150}
                                     height={150}
@@ -312,7 +312,7 @@ const Header: React.FC<HeaderProps> = ({ bgColor = 'transparent', showBorder = t
                                 />
                                 {/* Tablet image */}
                                 <Image
-                                    src="/category/tablet/earphone.png"
+                                    src="/home/category/tablet/earphone.png"
                                     alt="earphone"
                                     width={150}
                                     height={150}
@@ -321,7 +321,7 @@ const Header: React.FC<HeaderProps> = ({ bgColor = 'transparent', showBorder = t
                                 />
                                 {/* Desktop image */}
                                 <Image
-                                    src="/category/desktop/earphone.png"
+                                    src="/home/category/desktop/earphone.png"
                                     alt="earphone"
                                     width={150}
                                     height={150}
