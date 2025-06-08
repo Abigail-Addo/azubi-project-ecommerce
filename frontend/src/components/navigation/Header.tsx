@@ -32,6 +32,12 @@ const links = [
     },
 ];
 
+const category = {
+    headphones: 'headphones',
+    earphones: 'earphones',
+    speakers: 'speakers',
+};
+
 interface Product {
     _id: string;
     id: number;
@@ -229,7 +235,7 @@ const Header: React.FC<HeaderProps> = ({ bgColor = 'transparent', showBorder = t
                             {/* Text content */}
                             <h3 className="text-lg font-semibold uppercase mt-4">Headphones</h3>
                             <Link
-                                href="/headphones"
+                                href={`/${category.headphones}`}
                                 className={clsx(
                                     'hover:text-[#D87D4A] uppercase flex items-center justify-center gap-2 mt-2 text-sm font-medium',
                                     { 'text-[#D87D4A]': pathname === '/headphones' }
@@ -281,7 +287,7 @@ const Header: React.FC<HeaderProps> = ({ bgColor = 'transparent', showBorder = t
                             {/* Text content */}
                             <h3 className="text-lg font-semibold uppercase mt-4">Speakers</h3>
                             <Link
-                                href="/headphones"
+                                href={`/${category.speakers}`}
                                 className={clsx(
                                     'hover:text-[#D87D4A] uppercase flex items-center justify-center gap-2 mt-2 text-sm font-medium',
                                     { 'text-[#D87D4A]': pathname === '/speakers' }
@@ -333,7 +339,7 @@ const Header: React.FC<HeaderProps> = ({ bgColor = 'transparent', showBorder = t
                             {/* Text content */}
                             <h3 className="text-lg font-semibold uppercase mt-4">Earphones</h3>
                             <Link
-                                href="/headphones"
+                                href={`/${category.earphones}`}
                                 className={clsx(
                                     'hover:text-[#D87D4A] uppercase flex items-center justify-center gap-2 mt-2 text-sm font-medium',
                                     { 'text-[#D87D4A]': pathname === '/earphones' }
