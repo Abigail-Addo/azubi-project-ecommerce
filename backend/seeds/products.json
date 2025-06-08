@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "slug": "yx1-earphones",
+    "name": "YX1 Wireless Earphones",
+    "image": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335956/mobile_ccfauv.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335963/tablet_hzkb2j.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335951/desktop_r3rksw.jpg"
+    },
+    "category": "earphones",
+    "categoryImage": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749333585/mobile_go0acu.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749333622/tablet_sz61xq.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749333579/desktop_vvvibr.jpg"
+    },
+    "new": true,
+    "price": 599,
+    "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature.",
+    "features": "Experience unrivalled stereo sound thanks to innovative acoustic technology. With improved ergonomics designed for full day wearing, these revolutionary earphones have been finely crafted to provide you with the perfect fit, delivering complete comfort all day long while enjoying exceptional noise isolation and truly immersive sound.\n\nThe YX1 Wireless Earphones features customizable controls for volume, music, calls, and voice assistants built into both earbuds. The new 7-hour battery life can be extended up to 28 hours with the charging case, giving you uninterrupted play time. Exquisite craftsmanship with a splash resistant design now available in an all new white and grey color scheme as well as the popular classic black.",
+    "includes": [
+      {
+        "quantity": 2,
+        "item": "Earphone unit"
+      },
+      {
+        "quantity": 6,
+        "item": "Multi-size earplugs"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "USB-C charging cable"
+      },
+      {
+        "quantity": 1,
+        "item": "Travel pouch"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749336006/image-gallery-1_rw7cfr.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749336016/image-gallery-1_ki5jtk.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335997/image-gallery-1_domvcw.jpg"
+      },
+      "second": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749336008/image-gallery-2_glcc7t.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749336017/image-gallery-2_epajhj.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335998/image-gallery-2_kd7lsq.jpg"
+      },
+      "third": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749336009/image-gallery-3_ict8v2.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749336019/image-gallery-3_tzub5g.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749336000/image-gallery-3_xiqzek.jpg"
+      }
+    },
+    "others": [
+      {
+        "slug": "zx9-speaker",
+        "name": "ZX9 Speaker",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321055/mobile_xsshlf.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321060/tablet_bcnjsq.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321048/desktop_qhqzq3.jpg"
+        }
+      },
+      {
+        "slug": "xx99-mark-one-headphones",
+        "name": "XX99 Mark I",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317101/mobile_quldpp.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317103/tablet_o3kekt.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317100/desktop_suuwpf.jpg"
+        }
+      },
+      {
+        "slug": "xx59-headphones",
+        "name": "XX59",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317113/tablet_j5wweq.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317111/mobile_vfkcyy.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317108/desktop_rfwjse.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "xx59-headphones",
+    "name": "XX59 Headphones",
+    "image": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321655/mobile_jtmplv.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321674/tablet_hrtggi.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321640/desktop_tppy1r.jpg"
+    },
+    "category": "headphones",
+    "categoryImage": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749313927/mobile_zkq40t.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749313928/tablet_mrhsvc.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749313927/desktop_pdh7ew.jpg"
+    },
+    "new": false,
+    "price": 899,
+    "description": "Enjoy your audio almost anywhere and customize it to your specific tastes with the XX59 headphones. The stylish yet durable versatile wireless headset is a brilliant companion at home or on the move.",
+    "features": "These headphones have been created from durable, high-quality materials tough enough to take anywhere. Its compact folding design fuses comfort and minimalist style making it perfect for travel. Flawless transmission is assured by the latest wireless technology engineered for audio synchronization with videos.\n\nMore than a simple pair of headphones, this headset features a pair of built-in microphones for clear, hands-free calling when paired with a compatible smartphone. Controlling music and calls is also intuitive thanks to easy-access touch buttons on the earcups. Regardless of how you use the XX59 headphones, you can do so all day thanks to an impressive 30-hour battery life that can be rapidly recharged via USB-C.",
+    "includes": [
+      {
+        "quantity": 1,
+        "item": "Headphone unit"
+      },
+      {
+        "quantity": 2,
+        "item": "Replacement earcups"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "3.5mm 5m audio cable"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321843/image-gallery-1_xzd5k2.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321821/image-gallery-1_zro06a.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321859/image-gallery-1_couuyr.jpg"
+      },
+      "second": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321848/image-gallery-2_mrpngc.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321826/image-gallery-2_xznvwn.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321868/image-gallery-2_hcdm3w.jpg"
+      },
+      "third": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321853/image-gallery-3_aro3jy.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321831/image-gallery-3_vhwn7a.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321873/image-gallery-3_hd2xoi.jpg"
+      }
+    },
+    "others": [
+      {
+        "slug": "xx99-mark-two-headphones",
+        "name": "XX99 Mark II",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320910/mobile_o6ebha.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320940/tablet_fc80ev.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320879/desktop_ijy3vt.jpg"
+        }
+      },
+      {
+        "slug": "xx99-mark-one-headphones",
+        "name": "XX99 Mark I",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317101/mobile_quldpp.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317103/tablet_o3kekt.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317100/desktop_suuwpf.jpg"
+        }
+      },
+      {
+        "slug": "zx9-speaker",
+        "name": "ZX9 Speaker",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317122/mobile_h2kptm.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317125/tablet_vvcw5w.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317120/desktop_abxi5a.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "xx99-mark-one-headphones",
+    "name": "XX99 Mark I Headphones",
+    "image": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320631/mobile_cry25p.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320641/tablet_swwj6i.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320603/desktop_zeuhst.jpg"
+    },
+    "category": "headphones",
+    "categoryImage": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749313905/desktop_egq10r.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749313906/tablet_opaqqa.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749313906/mobile_by9piz.jpg"
+    },
+    "new": false,
+    "price": 1750,
+    "description": "As the gold standard for headphones, the classic XX99 Mark I offers detailed and accurate audio reproduction for audiophiles, mixing engineers, and music aficionados alike in studios and on the go.",
+    "features": "As the headphones all others are measured against, the XX99 Mark I demonstrates over five decades of audio expertise, redefining the critical listening experience. This pair of closed-back headphones are made of industrial, aerospace-grade materials to emphasize durability at a relatively light weight of 11 oz.\n\nFrom the handcrafted microfiber ear cushions to the robust metal headband with inner damping element, the components work together to deliver comfort and uncompromising sound. Its closed-back design delivers up to 27 dB of passive noise cancellation, reducing resonance by reflecting sound to a dedicated absorber. For connectivity, a specially tuned cable is includes with a balanced gold connector.",
+    "includes": [
+      {
+        "quantity": 1,
+        "item": "Headphone unit"
+      },
+      {
+        "quantity": 2,
+        "item": "Replacement earcups"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "3.5mm 5m audio cable"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320746/image-gallery-1_p6noyt.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320758/image-gallery-1_pttrhk.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320772/image-gallery-1_wgptba.jpg"
+      },
+      "second": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320750/image-gallery-2_jiwzwl.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320762/image-gallery-2_kihiuv.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320776/image-gallery-2_ysoz1x.jpg"
+      },
+      "third": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320753/image-gallery-3_yixqy9.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320767/image-gallery-3_muomgf.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320781/image-gallery-3_hbwoul.jpg"
+      }
+    },
+    "others": [
+      {
+        "slug": "xx99-mark-two-headphones",
+        "name": "XX99 Mark II",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320910/mobile_o6ebha.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320940/tablet_fc80ev.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749320879/desktop_ijy3vt.jpg"
+        }
+      },
+      {
+        "slug": "xx59-headphones",
+        "name": "XX59",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321028/mobile_wqwlst.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321042/tablet_vigcfb.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321023/desktop_uw0grs.jpg"
+        }
+      },
+      {
+        "slug": "zx9-speaker",
+        "name": "ZX9 Speaker",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321055/mobile_xsshlf.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321060/tablet_bcnjsq.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321048/desktop_qhqzq3.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "xx99-mark-two-headphones",
+    "name": "XX99 Mark II Headphones",
+    "image": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749315551/mobile_okwp7q.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749315553/tablet_dvaeru.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749315551/desktop_gu1kco.jpg"
+    },
+    "category": "headphones",
+    "categoryImage": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749309690/mobile_yusujq.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749309691/tablet_khbkgh.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749309690/desktop_lt1bcy.jpg"
+    },
+    "new": true,
+    "price": 2999,
+    "description": "The new XX99 Mark II headphones is the pinnacle of pristine audio. It redefines your premium headphone experience by reproducing the balanced depth and precision of studio-quality sound.",
+    "features": "Featuring a genuine leather head strap and premium earcups, these headphones deliver superior comfort for those who like to enjoy endless listening. It includes intuitive controls designed for any situation. Whether you’re taking a business call or just in your own personal space, the auto on/off and pause features ensure that you’ll never miss a beat.\n\nThe advanced Active Noise Cancellation with built-in equalizer allow you to experience your audio world on your terms. It lets you enjoy your audio in peace, but quickly interact with your surroundings when you need to. Combined with Bluetooth 5. 0 compliant connectivity and 17 hour battery life, the XX99 Mark II headphones gives you superior sound, cutting-edge technology, and a modern design aesthetic.",
+    "includes": [
+      {
+        "quantity": 1,
+        "item": "Headphone unit"
+      },
+      {
+        "quantity": 2,
+        "item": "Replacement earcups"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "3.5mm 5m audio cable"
+      },
+      {
+        "quantity": 1,
+        "item": "Travel bag"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749316814/image-gallery-1_kci2ie.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749316862/image-gallery-1_h2psbv.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749316871/image-gallery-1_ug9svc.jpg"
+      },
+      "second": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749316814/image-gallery-2_cxwlmo.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749316863/image-gallery-2_owh6gc.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749316872/image-gallery-2_rianmo.jpg"
+      },
+      "third": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749316816/image-gallery-3_ukxr0l.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749316866/image-gallery-3_zbbzd2.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749316876/image-gallery-3_mvtqfo.jpg"
+      }
+    },
+    "others": [
+      {
+        "slug": "xx99-mark-one-headphones",
+        "name": "XX99 Mark I",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317101/mobile_quldpp.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317103/tablet_o3kekt.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317100/desktop_suuwpf.jpg"
+        }
+      },
+      {
+        "slug": "xx59-headphones",
+        "name": "XX59",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317111/mobile_vfkcyy.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317113/tablet_j5wweq.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317108/desktop_rfwjse.jpg"
+        }
+      },
+      {
+        "slug": "zx9-speaker",
+        "name": "ZX9 Speaker",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317122/mobile_h2kptm.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317125/tablet_vvcw5w.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317120/desktop_abxi5a.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "zx7-speaker",
+    "name": "ZX7 Speaker",
+    "image": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334923/mobile_dofmp9.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334934/tablet_gz6fzu.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334908/desktop_kg8qnk.jpg"
+    },
+    "category": "speakers",
+    "categoryImage": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749333552/mobile_px6lm7.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749333557/tablet_evy9be.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749333546/desktop_ztypsd.jpg"
+    },
+    "new": false,
+    "price": 3500,
+    "description": "Stream high quality sound wirelessly with minimal to no loss. The ZX7 speaker uses high-end audiophile components that represents the top of the line powered speakers for home or studio use.",
+    "features": "Reap the advantages of a flat diaphragm tweeter cone. This provides a fast response rate and excellent high frequencies that lower tiered bookshelf speakers cannot provide. The woofers are made from aluminum that produces a unique and clear sound. XLR inputs allow you to connect to a mixer for more advanced usage.\n\nThe ZX7 speaker is the perfect blend of stylish design and high performance. It houses an encased MDF wooden enclosure which minimises acoustic resonance. Dual connectivity allows pairing through bluetooth or traditional optical and RCA input. Switch input sources and control volume at your finger tips with the included wireless remote. This versatile speaker is equipped to deliver an authentic listening experience.",
+    "includes": [
+      {
+        "quantity": 2,
+        "item": "Speaker unit"
+      },
+      {
+        "quantity": 2,
+        "item": "Speaker cloth panel"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "3.5mm 7.5m audio cable"
+      },
+      {
+        "quantity": 1,
+        "item": "7.5m optical cable"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335762/image-gallery-1_wqxcba.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335774/image-gallery-1_d2axh1.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334946/image-gallery-1_nk7jci.jpg"
+      },
+      "second": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335763/image-gallery-2_qopm3m.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335775/image-gallery-2_gdphew.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334954/image-gallery-2_ngozav.jpg"
+      },
+      "third": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335764/image-gallery-3_hvjoef.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335775/image-gallery-3_fgahrz.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749335734/image-gallery-3_u6cb1w.jpg"
+      }
+    },
+    "others": [
+      {
+        "slug": "zx9-speaker",
+        "name": "ZX9 Speaker",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321055/mobile_xsshlf.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321060/tablet_bcnjsq.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749321048/desktop_qhqzq3.jpg"
+        }
+      },
+      {
+        "slug": "xx99-mark-one-headphones",
+        "name": "XX99 Mark I",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317101/mobile_quldpp.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317103/tablet_o3kekt.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317100/desktop_suuwpf.jpg"
+        }
+      },
+      {
+        "slug": "xx59-headphones",
+        "name": "XX59",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317113/tablet_j5wweq.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317111/mobile_vfkcyy.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317108/desktop_rfwjse.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "zx9-speaker",
+    "name": "ZX9 Speaker",
+    "image": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334552/mobile_fzwehu.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334571/tablet_id058p.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334528/desktop_mv81hl.jpg"
+    },
+    "category": "speakers",
+    "categoryImage": {
+      "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749333528/mobile_obchpn.jpg",
+      "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749333539/tablet_tp66eb.jpg",
+      "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749333523/desktop_lu9kjo.jpg"
+    },
+    "new": true,
+    "price": 4500,
+    "description": "Upgrade your sound system with the all new ZX9 active speaker. It’s a bookshelf speaker system that offers truly wireless connectivity -- creating new possibilities for more pleasing and practical audio setups.",
+    "features": "Connect via Bluetooth or nearly any wired source. This speaker features optical, digital coaxial, USB Type-B, stereo RCA, and stereo XLR inputs, allowing you to have up to five wired source devices connected for easy switching. Improved bluetooth technology offers near lossless audio quality at up to 328ft (100m).\n\nDiscover clear, more natural sounding highs than the competition with ZX9’s signature planar diaphragm tweeter. Equally important is its powerful room-shaking bass courtesy of a 6.5” aluminum alloy bass unit. You’ll be able to enjoy equal sound quality whether in a large room or small den. Furthermore, you will experience new sensations from old songs since it can respond to even the subtle waveforms.",
+    "includes": [
+      {
+        "quantity": 2,
+        "item": "Speaker unit"
+      },
+      {
+        "quantity": 2,
+        "item": "Speaker cloth panel"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "3.5mm 10m audio cable"
+      },
+      {
+        "quantity": 1,
+        "item": "10m optical cable"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334625/image-gallery-1_esubfs.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334644/image-gallery-1_hioizd.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334603/image-gallery-1_gycc3s.jpg"
+      },
+      "second": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334631/image-gallery-2_b5ncf7.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334651/image-gallery-2_b7gazv.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334610/image-gallery-2_gok26i.jpg"
+      },
+      "third": {
+        "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334638/image-gallery-3_afxqeb.jpg",
+        "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334664/image-gallery-3_gkpoyi.jpg",
+        "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334617/image-gallery-3_qxqpzx.jpg"
+      }
+    },
+    "others": [
+      {
+        "slug": "zx7-speaker",
+        "name": "ZX7 Speaker",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334764/mobile_otcvfm.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334792/tablet_nfivy8.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749334747/desktop_i986re.jpg"
+        }
+      },
+      {
+        "slug": "xx99-mark-one-headphones",
+        "name": "XX99 Mark I",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317101/mobile_quldpp.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317103/tablet_o3kekt.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317100/desktop_suuwpf.jpg"
+        }
+      },
+      {
+        "slug": "xx59-headphones",
+        "name": "XX59",
+        "image": {
+          "mobile": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317113/tablet_j5wweq.jpg",
+          "tablet": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317111/mobile_vfkcyy.jpg",
+          "desktop": "https://res.cloudinary.com/dovedmjoa/image/upload/v1749317108/desktop_rfwjse.jpg"
+        }
+      }
+    ]
+  }
+]
