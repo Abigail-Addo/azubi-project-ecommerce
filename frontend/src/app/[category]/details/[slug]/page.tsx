@@ -11,17 +11,7 @@ import { getSingleProduct } from '@/lib/features/product/productSlice'
 import { useAppDispatch, useAppSelector } from '@/lib/hooks'
 import { addToCart, deleteCartItem, updateCartQuantity, getAllCartItems } from '@/lib/features/cart/cartSlice';
 import { toast } from "react-toastify";
-
-import { v4 as uuidv4 } from 'uuid';
-
-export function getSessionId(): string {
-    let sessionId = localStorage.getItem('sessionId');
-    if (!sessionId) {
-        sessionId = uuidv4();
-        localStorage.setItem('sessionId', sessionId);
-    }
-    return sessionId;
-}
+import { getSessionId } from '@/utils/session';
 
 
 interface Product {

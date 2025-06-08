@@ -22,7 +22,7 @@ import { useAppDispatch, useAppSelector } from '@/lib/hooks'
 import { toast } from 'react-toastify';
 import emailjs from "@emailjs/browser";
 import html2canvas from 'html2canvas';
-
+import { getSessionId } from '@/utils/session';
 
 interface StyledFormControlLabelProps extends FormControlLabelProps {
     checked: boolean;
@@ -142,16 +142,6 @@ function MyFormControlLabel(props: FormControlLabelProps) {
     }
 
     return <StyledFormControlLabel checked={checked} {...props} />;
-}
-
-
-export function getSessionId(): string | null {
-    const sessionId = localStorage.getItem('sessionId');
-    if (!sessionId) {
-        toast.error("No session id found");
-        return null;
-    }
-    return sessionId;
 }
 
 
