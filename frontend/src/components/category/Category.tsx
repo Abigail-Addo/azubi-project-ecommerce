@@ -156,6 +156,9 @@ const Category = () => {
                             />
                         </div>
 
+
+
+
                         {/* Text content */}
                         <h3 className="text-lg font-semibold uppercase mt-4">Earphones</h3>
                         <Link
