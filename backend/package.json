@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js",
-    "seed:products": "node seed/productSeeder.js"
+    "seed:products": "node seeds/productSeeder.js"
   },
   "author": "",
   "license": "ISC",
