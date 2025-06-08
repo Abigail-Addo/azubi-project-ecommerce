@@ -19,7 +19,7 @@ app.use(json());
 // middleware
 app.use(
   cors({
-    origin: "http://localhost:3002",
+    origin: "*",
     credentials: true,
   })
 );
@@ -33,5 +33,5 @@ app.use("/checkout", checkoutRoutes);
 
 app.listen(PORT, () => {
   connectDB();
-  // console.log(`Server running on port ${PORT}`);
+  console.log(`Server running on port ${PORT}`);
 });

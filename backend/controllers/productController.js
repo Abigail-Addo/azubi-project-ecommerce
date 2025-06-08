@@ -5,6 +5,7 @@ import asyncHandler from "express-async-handler";
 const getAllProducts = asyncHandler(async (req, res) => {
   const products = await Product.find();
   res.status(200).send(products);
+  console.log(products);
 });
 
 // get a single product by slug
@@ -12,10 +13,12 @@ const getSingleProduct = asyncHandler(async (req, res) => {
   const product = await Product.findOne({ slug: req.params.slug });
 
   if (!product) {
+    console.log("no product found");
     return res.status(404).json({ message: "Product not found" });
   }
+
   res.status(200).send(product);
-  // console.log(product);
+  console.log(product);
 });
 
 // get products by category
@@ -34,6 +37,7 @@ const getProductsByCategory = asyncHandler(async (req, res) => {
   ];
 
   res.status(200).json(sorted);
+  console.log(sorted);
 });
 
 export default {
