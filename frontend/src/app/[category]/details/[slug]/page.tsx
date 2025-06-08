@@ -87,12 +87,7 @@ interface CartItem {
 }
 
 
-
-interface CounterProps {
-    quantity: number;
-}
-
-const HeadPhoneDetails: React.FC<CounterProps> = () => {
+const HeadPhoneDetails = () => {
     const router = useRouter();
     const dispatch = useAppDispatch();
     const params = useParams();
