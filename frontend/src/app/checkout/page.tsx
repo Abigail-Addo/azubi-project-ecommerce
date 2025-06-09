@@ -881,7 +881,7 @@ const Checkout = () => {
 
 
                                 {selectedPaymentMethod === "cash" && (
-                                    <div className='flex items-center justify-center gap-6 w-full'>
+                                    <div className='grid grid-cols-1 items-center justify-center gap-6 w-full'>
                                         <Image
                                             src='/checkout/icon-cash-on-delivery.svg'
                                             alt='checkout'
