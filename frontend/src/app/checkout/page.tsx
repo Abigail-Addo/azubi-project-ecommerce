@@ -533,7 +533,6 @@ const Checkout = () => {
                                         <p role="alert" className="text-red-500 text-sm">{errors.contact.message}</p>
                                     )}
                                 </div>
-
                             </div>
 
                             <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
@@ -719,7 +718,6 @@ const Checkout = () => {
                                     control={control}
                                     render={({ field }) => (
                                         <div>
-                                            <p>Payment Method</p>
                                             <RadioGroup
                                                 {...field}
                                                 value={field.value}
@@ -879,6 +877,24 @@ const Checkout = () => {
                                             )}
                                         </div>
                                     </>
+                                )}
+
+
+                                {selectedPaymentMethod === "cash" && (
+                                    <div className='flex items-center justify-center gap-6'>
+                                        <Image
+                                            src='/checkout/icon-order-confirmation.svg'
+                                            alt='checkout'
+                                            width={30}
+                                            height={30}
+                                            priority
+                                        />
+
+                                        <p>
+                                            The &#39;Cash on Delivery&#39; option enables you to pay in cash when our delivery courier arrives at your residence. Just make sure your address is correct so that your order will not be cancelled.
+                                        </p>
+                                    </div>
+
                                 )}
                             </div>
 

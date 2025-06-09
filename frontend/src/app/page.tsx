@@ -7,9 +7,19 @@ import Footer from '@/components/footer/Footer'
 import Category from '@/components/category/Category'
 import AudioGear from '@/components/audio gear/AudioGear'
 import { useRouter } from 'next/navigation'
+import { getAllProducts } from '@/lib/features/product/productSlice'
+import { useAppDispatch } from '@/lib/hooks'
+
 
 const Home = () => {
   const router = useRouter();
+  const dispatch = useAppDispatch();
+
+  // fetch all products
+  React.useEffect(() => {
+    dispatch(getAllProducts());
+  }, [dispatch]);
+
 
   return (
     <>
