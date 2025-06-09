@@ -878,25 +878,24 @@ const Checkout = () => {
                                         </div>
                                     </>
                                 )}
-
-
-                                {selectedPaymentMethod === "cash" && (
-                                    <div className='grid grid-cols-1 items-center justify-center gap-6 w-full'>
-                                        <Image
-                                            src='/checkout/icon-cash-on-delivery.svg'
-                                            alt='checkout'
-                                            width={30}
-                                            height={30}
-                                            priority
-                                        />
-
-                                        <p className='w-full text-center md:text-start'>
-                                            The &#39;Cash on Delivery&#39; option enables you to pay in cash when our delivery courier arrives at your residence. Just make sure your address is correct so that your order will not be cancelled.
-                                        </p>
-                                    </div>
-
-                                )}
                             </div>
+
+                            {selectedPaymentMethod === "cash" && (
+                                <div className='flex items-center justify-center gap-6 w-full'>
+                                    <Image
+                                        src='/checkout/icon-cash-on-delivery.svg'
+                                        alt='checkout'
+                                        width={30}
+                                        height={30}
+                                        priority
+                                    />
+
+                                    <p className='w-full text-center md:text-start'>
+                                        The &#39;Cash on Delivery&#39; option enables you to pay in cash when our delivery courier arrives at your residence. Just make sure your address is correct so that your order will not be cancelled.
+                                    </p>
+                                </div>
+
+                            )}
 
                             <button type='submit' className='hidden'></button>
                         </form>
