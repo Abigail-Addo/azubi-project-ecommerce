@@ -890,7 +890,7 @@ const Checkout = () => {
                                         priority
                                     />
 
-                                    <p className='w-full text-center md:text-start'>
+                                    <p className='w-full md:text-start'>
                                         The &#39;Cash on Delivery&#39; option enables you to pay in cash when our delivery courier arrives at your residence. Just make sure your address is correct so that your order will not be cancelled.
                                     </p>
                                 </div>
