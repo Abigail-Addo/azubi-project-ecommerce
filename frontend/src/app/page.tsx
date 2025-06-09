@@ -17,7 +17,7 @@ const Home = () => {
 
   // fetch all products
   React.useEffect(() => {
-    alert("Please note: Page load may be delayed due to backend service inactivity on Render.");
+    alert("Please note: Image load may be delayed due to backend service inactivity on Render.");
     dispatch(getAllProducts());
   }, [dispatch]);
 
