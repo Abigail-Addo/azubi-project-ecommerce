@@ -107,8 +107,11 @@ const Footer = () => {
                         </Link>
                     </div>
 
-                    <div className='md:hidden lg:flex text-white opacity-40 lg:text-start text-center order-1 lg:order-2'>
+                    <div className='md:hidden lg:flex text-white opacity-40 lg:text-start text-center order-1 lg:order-2 flex items-center justify-between'>
                         <p>Copyright 2021. All Rights Reserved</p>
+
+                        <Link href="https://github.com/Abigail-Addo/azubi-project-ecommerce.git" target='_blank' className="underline text-white font-bold" >View code on github</Link>
+
                     </div>
 
                     <div className='hidden md:flex lg:hidden items-center justify-between'>
@@ -157,8 +160,10 @@ const Footer = () => {
                             </Link>
                         </div>
 
-                        <div className=' text-white opacity-40 lg:text-start text-center order-1'>
+                        <div className=' text-white opacity-40 lg:text-start text-center order-1 flex items-center justify-between'>
                             <p>Copyright 2021. All Rights Reserved</p>
+
+                            <Link href="https://github.com/Abigail-Addo/azubi-project-ecommerce.git" target='_blank' className="underline text-white font-bold" >View code on github</Link>
                         </div>
                     </div>
 
